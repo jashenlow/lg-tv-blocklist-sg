@@ -7,9 +7,9 @@
 0.0.0.0 ads.lgtvcommon.com
 0.0.0.0 adsdtvc.com
 0.0.0.0 cdpbeacon.lgtvcommon.com
-0.0.0.0 de.emp.lgsmartplatform.com
-0.0.0.0 de.info.lgsmartad.com
-0.0.0.0 de.nextlgsdp.com
+0.0.0.0 sg.emp.lgsmartplatform.com
+0.0.0.0 sg.info.lgsmartad.com
+0.0.0.0 sg.nextlgsdp.com
 0.0.0.0 eic.api.lgtviot.com
 0.0.0.0 eic.lgtviot.com
 0.0.0.0 eic.nudge.lgtvcommon.com
@@ -22,3 +22,4 @@
 0.0.0.0 recommend.lgtvcommon.com
 0.0.0.0 smart.adtvc.app
 0.0.0.0 us.lgtvsdp.com
+0.0.0.0 sg.lgtvsdp.com

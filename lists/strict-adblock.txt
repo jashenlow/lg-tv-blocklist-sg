@@ -10,11 +10,11 @@
 ||am.lge.com^
 ||bss.lgechannel.com^
 ||cdpbeacon.lgtvcommon.com^
-||de.emp.lgsmartplatform.com^
-||de.ibs.nextlgsdp.com^
-||de.info.lgsmartad.com^
-||de.lgeapi.com^
-||de.nextlgsdp.com^
+||sg.emp.lgsmartplatform.com^
+||sg.ibs.nextlgsdp.com^
+||sg.info.lgsmartad.com^
+||sg.lgeapi.com^
+||sg.nextlgsdp.com^
 ||eic-gfts.lge.com^
 ||eic-ngfts.lge.com^
 ||eic-ngfts.tv.wiselg.com^
@@ -60,5 +60,6 @@
 ||su.lge.com^
 ||ueiwsp.com^
 ||us.lgtvsdp.com^
+||sg.lgtvsdp.com^
 ||wiselg.com^
 ||www.ueiwsp.com^
