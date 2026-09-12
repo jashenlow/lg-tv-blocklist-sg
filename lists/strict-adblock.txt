@@ -60,5 +60,6 @@
 ||su.lge.com^
 ||ueiwsp.com^
 ||us.lgtvsdp.com^
+||sg.lgtvsdp.com^
 ||wiselg.com^
 ||www.ueiwsp.com^
