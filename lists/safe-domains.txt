@@ -7,9 +7,9 @@ ad.lgappstv.com
 ads.lgtvcommon.com
 adsdtvc.com
 cdpbeacon.lgtvcommon.com
-de.emp.lgsmartplatform.com
-de.info.lgsmartad.com
-de.nextlgsdp.com
+sg.emp.lgsmartplatform.com
+sg.info.lgsmartad.com
+sg.nextlgsdp.com
 eic.api.lgtviot.com
 eic.lgtviot.com
 eic.nudge.lgtvcommon.com
@@ -22,3 +22,4 @@ lgtvsdp.com
 recommend.lgtvcommon.com
 smart.adtvc.app
 us.lgtvsdp.com
+sg.lgtvsdp.com
